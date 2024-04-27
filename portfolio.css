@@ -39,3 +39,34 @@ h3 {
 .content p {
   font-size: 14px;
 }
+
+p {
+  font-weight: normal;
+  line-height: 30px;
+}
+
+.back-to-workpage-link {
+  display: flex;
+  justify-content: center;
+}
+
+.back-to-workpage-link a {
+  color: var(--branding-color);
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.contact-link {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-link a {
+  color: var(--branding-color);
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4);
+}
