@@ -17,6 +17,14 @@ body {
   margin: 30px;
 }
 
+h1,
+h2,
+h3 {
+  color: black;
+  font-family: var(--heading-font-family);
+  font-weight: bold;
+}
+
 .content h1 {
   font-size: 64px;
   line-height: 80px;
